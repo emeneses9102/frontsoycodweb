@@ -1,0 +1,23 @@
+export { default as Alambricas } from './Alambricas';
+export { default as Celulares } from './Celulares';
+export { default as Inalambricas } from './Inalambricas';
+export { default as Industriales } from './Industriales';
+export { default as Portafolio } from './Portafolio';
+export { default as Redes } from './Redes';
+export { default as RedesIot } from './RedesIot';
+export { default as Sdwan } from './Sdwan';
+export { default as Datacenter } from './Datacenter';
+export { default as Hiperconvergencia } from './Hiperconvergencia';
+export { default as BasedeDatos } from './BasedeDatos';
+export { default as Virtualizacion } from './Virtualizacion';
+export { default as Respaldos } from './Respaldos';
+export { default as Nube } from './Nube';
+export { default as Almacenamiento } from './Almacenamiento';
+export { default as SeguridadInformatica } from './SeguridadInformatica';
+export { default as Ciberseguridad } from './Ciberseguridad';
+export { default as AplicacionesMovilidad } from './AplicacionesMovilidad';
+export { default as InternetCosas } from './InternetCosas';
+export { default as AutomatizacionProcesos } from './AutomatizacionProcesos';
+export { default as CentrosDistribucion } from './CentrosDistribucion';
+export { default as LogisticaTransporte } from './LogisticaTransporte';
+
