@@ -2,7 +2,7 @@ import React from 'react';
 import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
-import presentacionCopr from '../../../../../svg/files/Presentación Corporativa Sycod 2023.pdf';
+import presentacionCopr from '../../../../../svg/files/Presentacion_Corporativa_Sycod_2023.pdf';
 
 const Hero = () => {
   return (
